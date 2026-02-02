@@ -18,42 +18,30 @@ language model data quality & error analysis · applied linguistics in ML
 
 
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-%23B4BEFE?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F9C5D1?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FAE3B0?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-%23F8BD96?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23F8BD96?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%23B4BEFE?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2391D7E3?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23CBA6F7?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23CDD6F4?style=for-the-badge&logo=flask&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-%2391D7E3?style=for-the-badge&logo=numpy&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-%23CBA6F7?style=for-the-badge&logo=pandas&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23A6E3A1?style=for-the-badge&logo=sqlite&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F9C5D1?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23CDD6F4?style=for-the-badge&logo=github&logoColor=black)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-%23B4BEFE?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23F8BD96?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23A6E3A1?style=for-the-badge&logo=swagger&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-%23CBA6F7?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F9C5D1?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%2391D7E3?style=for-the-badge&logo=trello&logoColor=black)
-
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vxronica&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vxronica&theme=catppuccin_latte&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vxronica&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/veronicaperezm">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vxronica&icon=0&color=9" />
-</p>
+🔗 **Connect with me on [LinkedIn](https://linkedin.com/in/veronicaperezm)**
