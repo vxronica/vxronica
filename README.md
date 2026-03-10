@@ -1,7 +1,7 @@
 ## Hi, I’m Veronica  
 
 I’m a CS graduate student at **Northeastern Illinois University** with a background in **Linguistics** from **UIUC**.  
-I’m passionate about **language engineering**, building NLP systems that bridge linguistic theory and real-world AI applications.
+I’m passionate about **language engineering**, building **NLP systemsz** that bridge **linguistic theory** and real-world **AI applications.**
 
 🫧 **Currently** <br>
 Working on **multilingual language data quality and evaluation** for large-scale language models at **Meta**
